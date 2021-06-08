@@ -1,0 +1,115 @@
+
+    [
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "6",
+		"OrderDate": "1997-05-06T00:00:00",
+		"RequiredDate": "1997-05-20T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "2",
+			"Freight": "3.35",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "8",
+		"OrderDate": "1997-07-04T00:00:00",
+		"RequiredDate": "1997-08-01T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "2",
+			"Freight": "4.42",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "1",
+		"OrderDate": "1997-07-31T00:00:00",
+		"RequiredDate": "1997-08-28T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "2",
+			"Freight": "116.53",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "4",
+		"OrderDate": "1997-07-31T00:00:00",
+		"RequiredDate": "1997-08-28T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "2",
+			"Freight": "18.53",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "6",
+		"OrderDate": "1997-09-04T00:00:00",
+		"RequiredDate": "1997-10-02T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "1",
+			"Freight": "57.15",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "3",
+		"OrderDate": "1997-09-25T00:00:00",
+		"RequiredDate": "1997-10-23T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "3",
+			"Freight": "76.13",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	},
+	{
+		"CustomerID": "GREAL",
+		"EmployeeID": "4",
+		"OrderDate": "1998-01-06T00:00:00",
+		"RequiredDate": "1998-02-03T00:00:00",
+		"ShipInfo": {
+			"ShipVia": "2",
+			"Freight": "719.78",
+			"ShipName": "Great Lakes Food Market",
+			"ShipAddress": "2732 Baker Blvd.",
+			"ShipCity": "Eugene",
+			"ShipRegion": "OR",
+			"ShipPostalCode": "97403",
+			"ShipCountry": "USA"
+		}
+	}
+]

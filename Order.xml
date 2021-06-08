@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>6</employeeID>
+        <orderDate>1997-05-06T00:00:00</orderDate>
+        <requiredDate>1997-05-20T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>3.35</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>2</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>8</employeeID>
+        <orderDate>1997-07-04T00:00:00</orderDate>
+        <requiredDate>1997-08-01T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>4.42</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>2</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>1</employeeID>
+        <orderDate>1997-07-31T00:00:00</orderDate>
+        <requiredDate>1997-08-28T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>116.53</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>2</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>4</employeeID>
+        <orderDate>1997-07-31T00:00:00</orderDate>
+        <requiredDate>1997-08-28T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>18.53</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>2</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>6</employeeID>
+        <orderDate>1997-09-04T00:00:00</orderDate>
+        <requiredDate>1997-10-02T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>57.15</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>1</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>3</employeeID>
+        <orderDate>1997-09-25T00:00:00</orderDate>
+        <requiredDate>1997-10-23T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>76.13</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>3</shipVia>
+        </shipinfo>
+    </order>
+    <order>
+        <customerID>GREAL</customerID>
+        <employeeID>4</employeeID>
+        <orderDate>1998-01-06T00:00:00</orderDate>
+        <requiredDate>1998-02-03T00:00:00</requiredDate>
+        <shipinfo>
+            <freight>719.78</freight>
+            <shipAddress>2732 Baker Blvd.</shipAddress>
+            <shipCity>Eugene</shipCity>
+            <shipCountry>USA</shipCountry>
+            <shipName>Great Lakes Food Market</shipName>
+            <shipPostalCode>97403</shipPostalCode>
+            <shipRegion>OR</shipRegion>
+            <shipVia>2</shipVia>
+        </shipinfo>
+    </order>
+</orders>
+
